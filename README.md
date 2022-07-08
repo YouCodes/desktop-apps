@@ -1,2 +1,2 @@
 # desktop-apps
-[Releases](https://github.com/YouCodes/desktop-apps/releases)
+# [Releases](https://github.com/YouCodes/desktop-apps/releases)
