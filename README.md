@@ -1,2 +1,2 @@
 # desktop-apps
-my desktop applications
+[Releases](https://github.com/YouCodes/desktop-apps/releases)
